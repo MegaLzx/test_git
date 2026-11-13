@@ -1,8 +1,4 @@
 Ceci est la documentation du test git
-<<<<<<< HEAD
-
+ceci est la deuxieme ligne
 
 Ceci n'est pas un message.
-=======
-ceci est la deuxieme ligne 
->>>>>>> 5797ed5 (coucou)
